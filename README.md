@@ -1,11 +1,8 @@
 <div alingn="center">
-  <h1 align="center"> Hi, I'm Sathya Sanlés </h1>
+  <h1 align="center"> Hi, I'm Sathya Sanlés 👋🏻</h1>
 </div>
-<!--
-**sathyasanles/sathyasanles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+## About me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,css,html,laravel,md,mongodb,mysql,php,react,ts" />
+</p>
+
+## Soft and Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,aws,docker,cloudflare,discord,linkedin,powershell,vite,vscode" />
+</p>
