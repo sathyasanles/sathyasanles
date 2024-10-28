@@ -1,4 +1,5 @@
 <div alingn="center">
+  <img src="https://github.com/sathyasanles/sathyasanles/blob/main/profile-2.jpg?raw=true" height="200px">
   <h1 align="center"> Hi, I'm Sathya Sanlés 👋🏻</h1>
 </div>
 
