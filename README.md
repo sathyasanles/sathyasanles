@@ -13,11 +13,13 @@
 - ⚡ Fun fact: ...
 
 ## Languages
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,css,html,laravel,md,mongodb,mysql,php,react,ts" />
 </p>
 
 ## Soft and Skills
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,aws,docker,cloudflare,discord,linkedin,powershell,vite,vscode" />
 </p>
+
+<h6 align="center">Made with ❤️ by Me (probably)</h6>
